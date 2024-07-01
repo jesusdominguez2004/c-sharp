@@ -1,0 +1,14 @@
+C:\Users\Jesús\source\repos\demo012\demo012\bin\Debug\net8.0\demo012.exe
+C:\Users\Jesús\source\repos\demo012\demo012\bin\Debug\net8.0\demo012.deps.json
+C:\Users\Jesús\source\repos\demo012\demo012\bin\Debug\net8.0\demo012.runtimeconfig.json
+C:\Users\Jesús\source\repos\demo012\demo012\bin\Debug\net8.0\demo012.dll
+C:\Users\Jesús\source\repos\demo012\demo012\bin\Debug\net8.0\demo012.pdb
+C:\Users\Jesús\source\repos\demo012\demo012\obj\Debug\net8.0\demo012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesús\source\repos\demo012\demo012\obj\Debug\net8.0\demo012.AssemblyInfoInputs.cache
+C:\Users\Jesús\source\repos\demo012\demo012\obj\Debug\net8.0\demo012.AssemblyInfo.cs
+C:\Users\Jesús\source\repos\demo012\demo012\obj\Debug\net8.0\demo012.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\source\repos\demo012\demo012\obj\Debug\net8.0\demo012.dll
+C:\Users\Jesús\source\repos\demo012\demo012\obj\Debug\net8.0\refint\demo012.dll
+C:\Users\Jesús\source\repos\demo012\demo012\obj\Debug\net8.0\demo012.pdb
+C:\Users\Jesús\source\repos\demo012\demo012\obj\Debug\net8.0\demo012.genruntimeconfig.cache
+C:\Users\Jesús\source\repos\demo012\demo012\obj\Debug\net8.0\ref\demo012.dll
