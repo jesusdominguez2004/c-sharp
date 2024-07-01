@@ -16,9 +16,7 @@
 
 **ÍCONOS:**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="c#" width="70" height="70"/> <img src="https://vetores.org/d/w3schools.svg" alt="w3schools" height="70"/> 
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="70" height="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" alt="codeblocks" width="70" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="c#" width="70" height="70"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="vs" width="70" height="70"/> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="70" height="70"/> <img src="https://vetores.org/d/w3schools.svg" alt="w3schools" height="70"/> 
 
 ---
 
