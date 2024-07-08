@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo081\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB919DEA-EBA8-4F72-88E6-5D24C24EBDC8}|demo081\\demo081.csproj|c:\\users\\jes\u00FAs\\source\\repos\\demo081\\demo081\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB919DEA-EBA8-4F72-88E6-5D24C24EBDC8}|demo081\\demo081.csproj|solutionrelative:demo081\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo081\\demo081\\Program.cs",
+              "RelativeDocumentMoniker": "demo081\\Program.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo081\\demo081\\Program.cs",
+              "RelativeToolTip": "demo081\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:59:11.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
