@@ -3,14 +3,22 @@ using System;
 
 namespace MyApplication
 {
-    class Car
+    class Program
     {
-        public string model;
-        public string color;
-        public string year;
-        public void fullThrottle()
+        static void Main(string[] args)
         {
-            Console.WriteLine("The car is going as fast as it can!");
+            Car Ford = new Car();
+            Ford.model = "Mustang";
+            Ford.color = "red";
+            Ford.year = 1969;
+
+            Car Opel = new Car();
+            Opel.model = "Astra";
+            Opel.color = "white";
+            Opel.year = 2005;
+
+            Console.WriteLine(Ford.model);
+            Console.WriteLine(Opel.model);
         }
     }
 }
