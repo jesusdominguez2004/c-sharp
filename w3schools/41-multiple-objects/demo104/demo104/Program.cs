@@ -3,8 +3,12 @@ using System;
 
 namespace MyApplication
 {
-    class Car
+    class Program
     {
-        public string color = "red";
+        static void Main(string[] args)
+        {
+            Car myObj = new Car();
+            Console.WriteLine(myObj.color);
+        }
     }
 }
