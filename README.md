@@ -20,6 +20,68 @@
 
 ---
 
+> [!NOTE]
+> Árbol de archivos para un *demo* en directorio *w3schools*, que a su vez está contenida en una *lección*:
+
+```
+📦w3schools
+ ┣ 📂00-lesson-name
+ ┃ ┗ 📂demo000
+ ┃ ┃ ┣ 📂.vs
+ ┃ ┃ ┃ ┣ 📂demo000
+ ┃ ┃ ┃ ┃ ┣ 📂DesignTimeBuild
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜.dtbcache.v2
+ ┃ ┃ ┃ ┃ ┣ 📂FileContentIndex
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜a-long-identifier.vsidx
+ ┃ ┃ ┃ ┃ ┗ 📂v17
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜.futdcache.v2
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜.suo
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜DocumentLayout.json
+ ┃ ┃ ┃ ┗ 📂ProjectEvaluation
+ ┃ ┃ ┃ ┃ ┣ 📜demo000.metadata.v8.bin
+ ┃ ┃ ┃ ┃ ┣ 📜demo000.projects.v8.bin
+ ┃ ┃ ┃ ┃ ┗ 📜demo00..strings.v8.bin
+ ┃ ┃ ┣ 📂demo000
+ ┃ ┃ ┃ ┣ 📂bin
+ ┃ ┃ ┃ ┃ ┗ 📂Debug
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂net8.0
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.deps.json
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.dll
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.exe
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.pdb
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜demo000.runtimeconfig.json
+ ┃ ┃ ┃ ┣ 📂obj
+ ┃ ┃ ┃ ┃ ┣ 📂Debug
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂net8.0
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂ref
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜demo000.dll
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂refint
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜demo000.dll
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜apphost.exe
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.AssemblyInfo.cs
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.AssemblyInfoInputs.cache
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.assets.cache
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.csproj.BuildWithSkipAnalyzers
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.csproj.CoreCompileInputs.cache
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.csproj.FileListAbsolute.txt
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.dll
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.GeneratedMSBuildEditorConfig.editorconfig
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.genruntimeconfig.cache
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜demo000.GlobalUsings.g.cs
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜demo000.pdb
+ ┃ ┃ ┃ ┃ ┣ 📜demo000.csproj.nuget.dgspec.json
+ ┃ ┃ ┃ ┃ ┣ 📜demo000.csproj.nuget.g.props
+ ┃ ┃ ┃ ┃ ┣ 📜demo000.csproj.nuget.g.targets
+ ┃ ┃ ┃ ┃ ┣ 📜project.assets.json
+ ┃ ┃ ┃ ┃ ┗ 📜project.nuget.cache
+ ┃ ┃ ┃ ┣ 📜demo000.csproj
+ ┃ ┃ ┃ ┗ 📜Program.cs
+ ┃ ┃ ┗ 📜demo000.sln
+```
+
+---
+
 **PLANTILLAS NOTAS ESPECIALES GITHUB + MARKDOWN:**
 
 > [!NOTE]
