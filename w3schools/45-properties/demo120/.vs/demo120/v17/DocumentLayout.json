@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo120\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2315AF4-0FFF-4E7D-B222-DE609A2A725E}|demo120\\demo120.csproj|c:\\users\\jes\u00FAs\\source\\repos\\demo120\\demo120\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2315AF4-0FFF-4E7D-B222-DE609A2A725E}|demo120\\demo120.csproj|solutionrelative:demo120\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo120\\demo120\\Program.cs",
+              "RelativeDocumentMoniker": "demo120\\Program.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo120\\demo120\\Program.cs",
+              "RelativeToolTip": "demo120\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:00:03.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
