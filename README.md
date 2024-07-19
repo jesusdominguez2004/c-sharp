@@ -21,7 +21,15 @@
 ---
 
 > [!NOTE]
-> Árbol de archivos para un *demo* en directorio *w3schools*, que a su vez está contenida en una *lección*:
+> Árbol de archivos, para el directorio *w3schools*. 
+
+- Script *Program.cs* (código principal).
+
+- Scripts *Class000.cs* (clases externas).
+
+- Versión .NET 8.0.
+
+- Compilador de Visual Studio 2022 Community.
 
 ```
 📦w3schools
@@ -77,6 +85,7 @@
  ┃ ┃ ┃ ┃ ┗ 📜project.nuget.cache
  ┃ ┃ ┃ ┣ 📜demo000.csproj
  ┃ ┃ ┃ ┗ 📜Program.cs
+ ┃ ┃ ┃ ┗ 📜Class000.cs
  ┃ ┃ ┗ 📜demo000.sln
 ```
 
