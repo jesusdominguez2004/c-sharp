@@ -21,7 +21,7 @@
 ---
 
 > [!NOTE]
-> Árbol de archivos, para el directorio *w3schools*. 
+> Árbol de archivos, para el directorio *w3schools*:
 
 - Script *Program.cs* (código principal).
 
