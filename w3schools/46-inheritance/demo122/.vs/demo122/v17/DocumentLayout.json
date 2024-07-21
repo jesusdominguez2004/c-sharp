@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo122\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2672E50A-02B9-44CA-96B5-5AF5EB9D9D0A}|demo122\\demo122.csproj|c:\\users\\jes\u00FAs\\source\\repos\\demo122\\demo122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2672E50A-02B9-44CA-96B5-5AF5EB9D9D0A}|demo122\\demo122.csproj|solutionrelative:demo122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2672E50A-02B9-44CA-96B5-5AF5EB9D9D0A}|demo122\\demo122.csproj|c:\\users\\jes\u00FAs\\source\\repos\\demo122\\demo122\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2672E50A-02B9-44CA-96B5-5AF5EB9D9D0A}|demo122\\demo122.csproj|solutionrelative:demo122\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo122\\demo122\\Vehicle.cs",
+              "RelativeDocumentMoniker": "demo122\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo122\\demo122\\Vehicle.cs",
+              "RelativeToolTip": "demo122\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:35:16.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo122\\demo122\\Program.cs",
+              "RelativeDocumentMoniker": "demo122\\Program.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAs\\source\\repos\\demo122\\demo122\\Program.cs",
+              "RelativeToolTip": "demo122\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:30:52.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
